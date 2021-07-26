@@ -11,4 +11,4 @@ Having a growth mindset means understanding that we are able to improve ourselve
 
 ### I'm not sure how many features of Markdown structure I've used so
 * **I'm going to experiment with different stuff**
-* *such as **this**
+* *such as **this***
