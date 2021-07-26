@@ -25,6 +25,10 @@ Having a growth mindset means understanding that we are able to improve ourselve
 ## Basic Navigation
 * PWD = Print Working Directory (where am i?)
 * LS = List (what is here?)
+ * -L = long listing
+ * (-) for normal files
+ * (d) for directory
+ * /etc = don't list current directories *instead* list that directory's contents
 * Path = how to get from here to there
   * Absolute specifies a location in relation to the root directory (always begins with /)
   * Relative specified a location in relation to where i currently am (does *not* begin with a /)
