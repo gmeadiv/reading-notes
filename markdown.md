@@ -4,3 +4,6 @@ this is some of the information i saw
 
 # this is a heading 1
 ## this is a heading 2
+
+This is a link:
+https://guides.github.com/features/mastering-markdown/
