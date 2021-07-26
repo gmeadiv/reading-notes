@@ -14,15 +14,15 @@ Having a growth mindset means understanding that we are able to improve ourselve
 * **I'm going to experiment with different stuff**
 * *such as **this***
 
-## Choosing a text editor
-### features to look for:
+## Choosing a Text Editor
+### Features to look for:
 1. code completion
 2. syntax highlighting
 3. variety of themes
 4. healthy selection of extensions
 
-## The command line
-## Basic navigation
+## The Command Line
+## Basic Navigation
 * PWD = Print Working Directory (where am i?)
 * LS = List (what is here?)
 * Path = how to get from here to there
@@ -36,7 +36,7 @@ Having a growth mindset means understanding that we are able to improve ourselve
 * Touch = create a new file
 * MKIR = Make directory
 
-## More abour files
+## More About Files
 * Quotes: anything inside is considered a single item
 * \ (backslash): nullifies the meaning of the next character
 * Hidden files and directories
