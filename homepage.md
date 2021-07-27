@@ -1,15 +1,9 @@
-# reading-notes
-## Growth Mindset
+# Homepage
+## Introduction 
+My name is George Mead. I served in the military for over seven years before going to college on the GI Bill. I'm learning computer programming because I want a fun job that pays well while still giving me the flexibility to enjoy life. My favorite hobby is playing the guitar and writing my own songs.
 
-*In my own words*
-
-Having a growth mindset means understanding that we are able to improve ourselves rather than being shackled permanently to bad habits or personality traits
-
-## Three Ways to Remind Myself to Stay within the Growth Mindset
-1. I've already grown a lot, and I'm going to continue to grow
-2. Growing pains are real, but no pain no gain as they say
-3. Luck is when opportunity meets preparation, so prepare!
-
-### I'm not sure how many features of Markdown structure I've used so
-* **I'm going to experiment with different stuff**
-* *such as **this***
+## Table of Contents
+- [Lesson 1a Notes](growth_mindset.md)
+- [Lesson 1b Notes](markdown.md)
+- [Lesson 2 Notes](coders_computer.md)
+- [Lesson 3 Notes](revisions_cloud.md)
