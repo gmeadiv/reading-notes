@@ -4,7 +4,7 @@
     - most will have an opening and a closing tag
     - some are self-closing
     - google which ones are which
-    
+
 ## Wireframe and Design
 - What is a wireframe?
     - allows me to define and plan the information hierarchy of their website, app, or product
@@ -64,11 +64,11 @@
 - Anatomy of an HTML document
 - Images
 - Marking up text
-    - Headings: <h1> through <h6>
-    - Paragraphs: <p>
-    - Lists: unordered <ul> and ordered <ol>
-        - each item is put inside a <li>
-    - Links: <a> insert text then close
+    - Headings: < h 1 > through < h 6 >
+    - Paragraphs: < p >
+    - Lists: unordered < ul > and ordered < ol >
+        - each item is put inside a < li >
+    - Links: < a > insert text then close
 
 ## Semantics
 Refers to the *meaning* of a piece of code
