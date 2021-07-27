@@ -7,4 +7,4 @@ My name is George Mead. I served in the military for over seven years before goi
 - [Lesson 1b Notes: Markdown](markdown.md)
 - [Lesson 2 Notes: Coder's Computer](coders_computer.md)
 - [Lesson 3 Notes: Revisions and the Cloud](revisions_cloud.md)
-- [Lesson 4 Notes: HTML](html.md)
+- [Lesson 4 Notes: HTML](html-reading.md)
