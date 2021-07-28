@@ -9,3 +9,4 @@ My name is George Mead. I served in the military for over seven years before goi
 - [Lesson 3 Notes: Revisions and the Cloud](revisions_cloud.md)
 - [Lesson 4 Notes: HTML](html-reading.md)
 - [Lesson 5 Notes: CSS](css.md)
+- [Lesson 6 Notes: JavaScript](javascript_notes.md)
