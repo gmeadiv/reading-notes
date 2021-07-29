@@ -11,3 +11,4 @@ My name is George Mead. I served in the military for over seven years before goi
 - [Lesson 5 Notes: CSS](css.md)
 - [Lesson 6 Notes: JavaScript](javascript_notes.md)
 - [Lesson 7 Notes: JavaScript](programming_w_javascript.md)
+- [Lesson 8 Notes: Operators & Loops](operators_n_loops.md)
