@@ -63,3 +63,19 @@
 - Methods
     - represent how people interact with an object
     - can retrieve or update the values of an object's properties
+
+## Lecture Notes
+- Inline styling and script
+    - the old way of inserting styling and script directly into the html
+    - now we separate this code "separation of concerns"
+    - makes code organized and easier to read
+    - easier to debug
+    - easier for teams to all work on one application at once
+    - still useful to know bc i may encounter legacy code one day
+- to add code for script and styling inline
+    - for styling add a 'style' attribute directly to an element:
+        - <h1 style="color: green">Welcome to Class</h1>
+
+## internal styles
+- styles added to the head of the html document within a style element
+- set rules for the entire document
