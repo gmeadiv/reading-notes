@@ -14,4 +14,4 @@ My name is George Mead. I served in the military for over seven years before goi
 - [Lesson 8 Notes: Operators & Loops](operators_n_loops.md)
 
 ## Table of Contents for Code 201
-- [Intro to HTML and JavaScript](ntro_html_javascript.md)
+- [Intro to HTML and JavaScript](class_01.md)
