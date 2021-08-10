@@ -23,9 +23,23 @@
 - comments explain what my code does
 - scripts store data in variables
 - Data types
-  - numeric
+  - numbers
+    - decimals
+    - negative
+    - written with no special notation
   - string (of words)
+    - can also contain numbers and symbols
+    - denoted with 'single quotation marks'
   - boolean (true or false)
+    - logical data type
+    - no special notation
+    - used a lot in validation
+  - undefined
+    - self-explanatory
+    - default while variable is waiting to be defined
+  - null
+    - variable is explicitly declared as null
+    - different from the number ZERO (more absolute)
 - Six rules for naming variables
   1. name must begin with a letter, dollar sign, or underscore, it CANNOT begin with a number
   2. the rest of the name can contain letters, numbers, dollar sign, or underscore, must NOT use a dash or a period in the name
@@ -46,3 +60,27 @@
 
   ## Decisions and Loops
   - 
+
+  ## Lecture notes
+  - data types in JS
+    - a way of labeling and organizing data
+    - a way to format data that our program can anticipate and use the data properly
+    - primitive data types cannot be broken down into something more specific (numbers, strings, booleans, undefined, and null)
+  - JS is a loosely typed and dynamic language
+    - loosely typed: we don't have to know the type of data in order to declare a variable (ie is it going to be a number or a strong?)
+    - in other words, variables don't have to be declared with a type
+    - dynamic: the type of data can change after the variable has been declared
+- coding w/ JS
+  - strict mode: 'use strict'
+  - best practice: don't alter the user's input, keep an original, make a new variable if the input needs to be altered
+  - prompts always return a string even if user inputs a number!!
+    - if i want it to return a number:
+    - parseInt(variableName)
+    - Number(variableName)
+  - switch statement
+  - break statement gets out of the switch statement
+- CSS styling
+  - order of styling
+    1. styling that will affect entire document
+    2. styling on all text
+    3. work from top to bottom by section/element
