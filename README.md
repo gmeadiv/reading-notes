@@ -16,3 +16,4 @@ My name is George Mead. I served in the military for over seven years before goi
 ## Table of Contents for Code 201
 - [Intro to HTML and JavaScript](class_01.md)
 - [Basics: HTML, CSS, JS](class_02.md)
+- [HTML Lists, Control Flow with JS, and the CSS Box Model](class_03.md)
