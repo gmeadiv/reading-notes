@@ -58,8 +58,38 @@
   - comparison operators compare two values and return true or false
   - logical operators combine expressions and return true or false
 
-  ## Decisions and Loops
-  - 
+  ## Decisions
+  - Logical and
+  - Logical or not
+  - If statements
+    - If ... else
+  - Switch statements
+    - starts with a variable called switch value
+    - each case indicates a value for the variable and if the variable matches, a specific code is run
+    - default case if no variable matches
+  - Type coercion: JS converts a data type behind the scenes to complete an operation
+    - this is called weak typing
+  - Falsy values
+    - traditional boolean false
+    - the number zero
+    - empty string
+    - not a number
+    - variable with no value assigned to it
+  - Truthy values
+    - traditional boolean true
+    - numbers other than zero
+    - strings with content
+    - number calculations
+    - zero written as a string
+    - false written as a string
+  
+## Loops
+- loops check a condition, if it returns true a code block will run
+  - cycle will continue as long as the ocndition remains true
+- 3 types of loops
+  1. FOR a specific number of times
+  2. WHILE the condition is true
+  3. Do while will run the code at least once, even if the condition is false
 
   ## Lecture notes
   - data types in JS
