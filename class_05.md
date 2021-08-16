@@ -27,8 +27,12 @@
     - for long passages these are easier to read
   - sans-serif fonts don't have these flourishes
     - for smaller text, this is easier to read because it has lower resolution
-  - monospace fonts aLl letters take up equal space on the line
+  - monospace fonts all letters take up equal space on the line
     - used for coding fonts because it aligns nicely
+  - google fonts
+    - no need to download anything
+    - most browsers support it
+    - gives you options for other fonts that fit well with selected font
 - weight: light, medium, bold, black
 - style: normal, italic, oblique
 - condensed, regular, extended
