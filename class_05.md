@@ -33,3 +33,7 @@
 - style: normal, italic, oblique
 - condensed, regular, extended
 - text-transform: uppercase, lowercase, capitalize
+
+## Designing a webpage
+- try to wireframe the site before writing html
+- write html to fit the design rather than the other way around

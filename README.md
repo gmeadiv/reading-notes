@@ -19,3 +19,4 @@ My name is George Mead. I served in the military for over seven years before goi
 - [HTML Lists, Control Flow with JS, and the CSS Box Model](class_03.md)
 - [HTML Links, JS Functions, and Intro to CSS Layout](class_04.md)
 - [Images, Color, Text](class_05.md)
+- [Problem Domain, Objects, and the DOM](class_06.md)

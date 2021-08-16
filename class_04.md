@@ -38,6 +38,10 @@
   - functions will always return some value, even if it's undefined
   - when we *define* a function we use parameters to declare variables
   - when we *call/invoke* the function, we use arguments to assign values to the variables
+  - scope!
+    - variables within the function only exist within the function
+    - to get a variable out of the function, i need to call the variable's return value
+    - make a new variable outside of the function = the function
 - objects
 - built-in objects
 
