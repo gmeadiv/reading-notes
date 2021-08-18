@@ -26,3 +26,11 @@
 -  browser object model: contains objects that represent the current browser window/tab (ie browser history and device screen)
 - document object model: uses objects to create a representation of the current page
 - global javascript objects: represents things that JS needs to create a model of (ie dates and times)
+
+## Salmon Cookies example
+- sales html page is simple
+-
+
+## Constructor functions
+- a special type of function that acts as a blueprint/recipe for objects
+- named with a capital letter! (eg Pizza > pizza)
