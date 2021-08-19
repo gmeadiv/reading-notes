@@ -32,5 +32,5 @@
 -
 
 ## Constructor functions
-- a special type of function that acts as a blueprint/recipe for objects
+- a special type of function that creates objects
 - named with a capital letter! (eg Pizza > pizza)

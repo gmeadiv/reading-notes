@@ -22,3 +22,4 @@ My name is George Mead. I served in the military for over seven years before goi
 - [Problem Domain, Objects, and the DOM](class_06.md)
 - [Object-Oriented Programming, HTML Tables](class_07.md)
 - [CSS Layout](class_08.md)
+- [Forms and JS Events](class_09.md)
