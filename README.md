@@ -25,4 +25,5 @@ My name is George Mead. I served in the military for over seven years before goi
 - [Forms and JS Events](class_09.md)
 - [Error Handling & Debugging](class_10.md)
 - [Audio, Video, Images](class_11.md)
-- [Chart.js, Canvas](class_12.md)
+- [Chart, Canvas](class_12.md)
+- [THE PAST, PRESENT & FUTURE OF LOCAL STORAGE FOR WEB APPLICATIONS](class_13.md)
