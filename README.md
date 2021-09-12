@@ -27,3 +27,6 @@ My name is George Mead. I served in the military for over seven years before goi
 - [Audio, Video, Images](class_11.md)
 - [Chart, Canvas](class_12.md)
 - [THE PAST, PRESENT & FUTURE OF LOCAL STORAGE FOR WEB APPLICATIONS](class_13.md)
+- [About Me Wireframe](About_me_wireframe.jpeg)
+
+## Table of Contents for Code 301
