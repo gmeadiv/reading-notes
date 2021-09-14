@@ -30,3 +30,5 @@ My name is George Mead. I served in the military for over seven years before goi
 - [About Me Wireframe](About_me_wireframe.jpeg)
 
 ## Table of Contents for Code 301
+- [Introduction to React and Components](class-01.md)
+- [State and Props](class-02.md)
