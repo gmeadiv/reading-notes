@@ -34,3 +34,4 @@ My name is George Mead. I served in the military for over seven years before goi
 - [State and Props](class-02.md)
 - [Passing Functions as Props](class-03.md)
 - [React and Forms](class-04.md)
+- [Putting it all together](class-05.md)
