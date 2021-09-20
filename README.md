@@ -35,4 +35,4 @@ My name is George Mead. I served in the military for over seven years before goi
 - [Passing Functions as Props](class-03.md)
 - [React and Forms](class-04.md)
 - [Putting it all together](class-05.md)
-- [NODE.JS](class-06.md)
+- [NODE.JS](code_301/class-06.md)
