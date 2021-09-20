@@ -36,3 +36,19 @@
   - pairing an applicant with an employee is a common step during the interview process
 6. Work environment readiness
   - employers expect to train fresh hires with pair programming
+
+
+# Lecture notes
+
+## WRRC- Web Request Response Cycle
+- client types into my browser twitterdotcom
+  - client can be anything internet connected
+  - slient is whoever is asking for information
+- get request: message is sent out into the internet and to twitter's server for information
+- server sends us back access to twitter's website
+  - server is the thing that is giving back information/error message
+
+
+## the cloud
+- kind of a marketing term/buzzword
+- 
