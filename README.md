@@ -36,3 +36,4 @@ My name is George Mead. I served in the military for over seven years before goi
 - [React and Forms](class-04.md)
 - [Putting it all together](class-05.md)
 - [NODE.JS](code_301/class-06.md)
+- [REST](code_301/class-07.md)
