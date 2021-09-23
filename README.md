@@ -38,3 +38,4 @@ My name is George Mead. I served in the military for over seven years before goi
 - [NODE.JS](code_301/class-06.md)
 - [REST](code_301/class-07.md)
 - [APIs](code_301/class-08.md)
+- [Modules](code_301/class-09.md)
