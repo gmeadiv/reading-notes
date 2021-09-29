@@ -42,3 +42,4 @@ My name is George Mead. I served in the military for over seven years before goi
 - [In memory storage](code_301/class-10.md)
 - [Mongo and Mongoose](code_301/class-11.md)
 - [CRUD](code_301/class-12.md)
+- [Diversity & Inclusion in the Tech Industry](code_301/class-13.md)
