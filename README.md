@@ -1,6 +1,4 @@
 # Reading Notes
-## Introduction 
-My name is George Mead. I served in the military for over seven years before going to college on the GI Bill. I'm learning computer programming because I want a fun job that pays well while still giving me the flexibility to enjoy life. My favorite hobby is playing the guitar and writing my own songs.
 
 ## Table of Contents for Code 102
 - [Lesson 1a Notes: Growth Mindset](growth_mindset.md)
@@ -43,3 +41,5 @@ My name is George Mead. I served in the military for over seven years before goi
 - [Mongo and Mongoose](code_301/class-11.md)
 - [CRUD](code_301/class-12.md)
 - [Diversity & Inclusion in the Tech Industry](code_301/class-13.md)
+
+## Table of Contents for Code 401
