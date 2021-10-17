@@ -27,7 +27,7 @@
 1. Understand
 2. Plan
 3. Divide
-4. Stuck? Practice
+4. Stuck? Practice.
 
 ## 5 Whys: Getting to the Root of a Problem Quickly
 
