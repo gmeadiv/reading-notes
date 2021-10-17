@@ -1,6 +1,7 @@
 # Reading Notes
 
 ## Table of Contents for Code 102
+
 - [Lesson 1a Notes: Growth Mindset](growth_mindset.md)
 - [Lesson 1b Notes: Markdown](markdown.md)
 - [Lesson 2 Notes: Coder's Computer](coders_computer.md)
@@ -12,6 +13,7 @@
 - [Lesson 8 Notes: Operators & Loops](operators_n_loops.md)
 
 ## Table of Contents for Code 201
+
 - [Intro to HTML and JavaScript](class_01.md)
 - [Basics: HTML, CSS, JS](class_02.md)
 - [HTML Lists, Control Flow with JS, and the CSS Box Model](class_03.md)
@@ -28,6 +30,7 @@
 - [About Me Wireframe](About_me_wireframe.jpeg)
 
 ## Table of Contents for Code 301
+
 - [Introduction to React and Components](class-01.md)
 - [State and Props](class-02.md)
 - [Passing Functions as Props](class-03.md)
@@ -43,3 +46,5 @@
 - [Diversity & Inclusion in the Tech Industry](code_301/class-13.md)
 
 ## Table of Contents for Code 401
+
+- [Problem Solving](code_401/class_01.md)
