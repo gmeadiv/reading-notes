@@ -35,11 +35,11 @@
 - Counterintuitively, 5 whys involves seven steps:
   1. assemble the avengers
   2. define the problem if you can
-  3. ask the first why: why is the problem occuring?
+  3. ask the first why: why is the problem occurring?
   4. For each answer generated during step 3 ask 'why' four more times - not unlike a child who asks why repetitively
   5. Unlike the child, know when to stop asking why
 - the five in 5 whys isn't really important
 - go further than assigning blame
-- develop countemeasures
+- develop countermeasures
   6. Address the Root Cause(s)
   7. Monitor your measures
