@@ -43,3 +43,5 @@
 - develop countermeasures
   6. Address the Root Cause(s)
   7. Monitor your measures
+
+## Lecture Notes
