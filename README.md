@@ -48,3 +48,4 @@
 ## Table of Contents for Code 401
 
 - [Problem Solving](code_401/class_01.md)
+- [Express](code_401/class_02.md)
