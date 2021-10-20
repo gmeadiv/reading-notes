@@ -45,3 +45,12 @@
   7. Monitor your measures
 
 ## Lecture Notes
+
+### Node Runtime
+
+- Runtime is a place for code to run
+  - most of the time JS runs in the browser
+  - somethings can be done only in the browser, some can be done in node
+- Node has different concerns than the browser
+  - Node gives the developer a lot more power
+  - What is my computer doing (and other machines) > what is the browser displaying
