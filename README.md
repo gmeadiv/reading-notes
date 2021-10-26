@@ -52,3 +52,4 @@
 - [Express REST API](code_401/class_03.md)
 - [Data Modeling](code_401/class_04.md)
 - [DSA Linked Lists and Big Oh](code_401/class_05.md)
+- [Authenticiation](code_401/class_06.md)
