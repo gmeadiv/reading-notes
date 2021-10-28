@@ -54,3 +54,4 @@
 - [DSA Linked Lists and Big Oh](code_401/class_05.md)
 - [Basic Authenticiation](code_401/class_06.md)
 - [Bearer Authenticiation](code_401/class_07.md)
+- [Authorization](code_401/class_08.md)
