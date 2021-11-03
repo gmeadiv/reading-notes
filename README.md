@@ -57,3 +57,4 @@
 - [Access Control](code_401/class_08.md)
 - [Authorization / Authentication](code_401/class_09.md)
 - [Event Driven Applications](code_401/class_11.md)
+- [Socket.io](code_401/class_12.md)
