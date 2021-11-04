@@ -61,3 +61,50 @@
 
 - will WASM kill JS?
   - No. it was designed to compliment JS not replace it
+  - it's about choosing the right tool for the job
+  - some jobs require multiple tools
+
+- what is a cpu intensive task?
+  - video games
+
+- where to get started?
+  - go to WASMbyexample dot dev
+  - goes from hello world to building a simple app
+
+## Ceora Ford: the JS I need to know before learning React
+
+- React is in demand
+
+- need to know the basics
+  - variables, functions, datatypes, and objects
+
+- template literals: used to insert variables into strings
+
+- spread operator (ellipsis): shorthand which allows array items to fill a function's parameters
+  - " ... "
+
+- arrow functions: shorthand for creating functions
+
+- destructuring: assigns items within arrays or objects to variables
+
+- array methods: there are many
+  - dotMap: performs a function on each item in the array, returning a new array
+  - dotFilter: iterates through each item on the array, returning the items which meet the conditions of a given callback function
+  - dotReduce: combines two or more items in an array together to create one value
+
+## Romello Goodman: i need you to create with code
+
+- works at the New York Times
+
+- JavaScript is more fun than Java!
+
+- whose problems are we solving?
+  - today's problems *are* the company's problems
+
+- tyler hobbs: creative coder
+
+- think about the design of daily NYT emails!!
+
+- an app can be a homecooked meal
+
+  - labor of love for the people you love
