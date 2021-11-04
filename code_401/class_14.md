@@ -2,6 +2,6 @@
 
 ## Dolby dot io Wrokshop
 
-### [Here's my video app](https://flamboyant-bohr-9edbd9.netlify)
+### [Here's my video app](https://flamboyant-bohr-9edbd9.netlify.app)
 
 ### [GitHub Repo](https://github.com/gmeadiv/dolby-io-workshop)
