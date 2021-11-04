@@ -58,3 +58,5 @@
 - [Authorization / Authentication](code_401/class_09.md)
 - [Event Driven Applications](code_401/class_11.md)
 - [Socket.io](code_401/class_12.md)
+- [Cascadia JS: Wednesday](code_401/class_13.md)
+- [Cascadia JS: Thursday](code_401/class_14.md)
