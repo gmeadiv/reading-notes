@@ -60,3 +60,5 @@
 - [Socket.io](code_401/class_12.md)
 - [Cascadia JS: Wednesday](code_401/class_13.md)
 - [Cascadia JS: Thursday](code_401/class_14.md)
+- [Trees](code_401/class_15.md)
+- [AWS](code_401/class_16.md)
