@@ -62,3 +62,4 @@
 - [Cascadia JS: Thursday](code_401/class_14.md)
 - [Trees](code_401/class_15.md)
 - [AWS](code_401/class_16.md)
+- [AWS: S3 and Lambda](code_401/class_17.md)
